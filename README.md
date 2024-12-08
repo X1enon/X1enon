@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @X1enon
+- I am a nurse , learning how to program.
+- I`m starting with Python.
+- Well, I`ll use GPT. XD
